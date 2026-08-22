@@ -1,1 +1,0 @@
- ENT aeq,beq,ceq
