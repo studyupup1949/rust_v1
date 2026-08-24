@@ -1,3 +1,0 @@
-File with some non-ascii unicode.
-Use this to see if it gets rejected as appropriate.
-🎉👏
